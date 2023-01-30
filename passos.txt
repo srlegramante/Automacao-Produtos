@@ -1,0 +1,7 @@
+Passos manuais para realizar este processo
+
+1- Clicar e digitar usuario e senha 
+2- clicar em "Entrar"
+3- extrair cada produto 
+	- Clicar e digitar produto, quantidade e preço
+	- Clicar em registrar
